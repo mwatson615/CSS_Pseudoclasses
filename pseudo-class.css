@@ -1,0 +1,15 @@
+
+ul li {
+  display: inline;
+  list-style: none;
+}
+
+span {
+  display: block;
+  border: 1px solid black;
+  margin: 25px;
+}
+
+.n-child section:nth-of-type(even) {
+	border: 1px solid black;
+}
